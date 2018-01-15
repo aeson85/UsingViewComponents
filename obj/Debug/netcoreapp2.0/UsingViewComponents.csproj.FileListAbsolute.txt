@@ -1,0 +1,10 @@
+C:\Users\jie\Documents\Visual Studio 2017\Projects\Study\UsingViewComponents\bin\Debug\netcoreapp2.0\UsingViewComponents.deps.json
+C:\Users\jie\Documents\Visual Studio 2017\Projects\Study\UsingViewComponents\bin\Debug\netcoreapp2.0\UsingViewComponents.runtimeconfig.json
+C:\Users\jie\Documents\Visual Studio 2017\Projects\Study\UsingViewComponents\bin\Debug\netcoreapp2.0\UsingViewComponents.runtimeconfig.dev.json
+C:\Users\jie\Documents\Visual Studio 2017\Projects\Study\UsingViewComponents\bin\Debug\netcoreapp2.0\UsingViewComponents.dll
+C:\Users\jie\Documents\Visual Studio 2017\Projects\Study\UsingViewComponents\bin\Debug\netcoreapp2.0\UsingViewComponents.pdb
+C:\Users\jie\Documents\Visual Studio 2017\Projects\Study\UsingViewComponents\obj\Debug\netcoreapp2.0\UsingViewComponents.csproj.CoreCompileInputs.cache
+C:\Users\jie\Documents\Visual Studio 2017\Projects\Study\UsingViewComponents\obj\Debug\netcoreapp2.0\UsingViewComponents.AssemblyInfoInputs.cache
+C:\Users\jie\Documents\Visual Studio 2017\Projects\Study\UsingViewComponents\obj\Debug\netcoreapp2.0\UsingViewComponents.AssemblyInfo.cs
+C:\Users\jie\Documents\Visual Studio 2017\Projects\Study\UsingViewComponents\obj\Debug\netcoreapp2.0\UsingViewComponents.dll
+C:\Users\jie\Documents\Visual Studio 2017\Projects\Study\UsingViewComponents\obj\Debug\netcoreapp2.0\UsingViewComponents.pdb
